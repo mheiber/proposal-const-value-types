@@ -5,5 +5,7 @@ assignees: ''
 
 ---
 
-<!-- Welome! Please help us focus on the basics of the semantics for now as 
-the proposal will continue to change and it's most important to get the big picture right. -->
+<!-- Welome!
+- [ ] My issue is not a duplicate
+- [ ] My issue relates to the const-value-types proposal and not a [follow-on proposal](https://github.com/rricard/proposal-const-value-types#are-there-any-follow-up-proposals-being-considered)
+-->
